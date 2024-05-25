@@ -9,11 +9,10 @@ body    {
            text-align: center;
            font-weight: bold;
            font-style: italic;
-            
+           text-justify: auto;            
         }
     .dos {
           text-align: center;
-
         }
     /*.estilodiv {
             color: rgba(17, 27, 36, 0.356);
